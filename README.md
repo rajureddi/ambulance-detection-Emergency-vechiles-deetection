@@ -180,12 +180,13 @@ Possible upgrades:
 * Real-Time Camera Feed
 * Traffic Signal Integration
 
----
+
 
 ## REFERENCES
 
 Developed for **Emergency Vehicle Detection & Smart Traffic Applications**
 
-Kaggle ambulance detection  - https://www.kaggle.com/datasets/amrutasalagare/vehicle-dataset/data
-Roboflow emergency vechile dataset - https://universe.roboflow.com/avanthika-s-nfpex/indian-emergency-vehicles
----
+* Kaggle ambulance detection  - https://www.kaggle.com/datasets/amrutasalagare/vehicle-dataset/data
+
+* Roboflow emergency vechile dataset - https://universe.roboflow.com/avanthika-s-nfpex/indian-emergency-vehicles
+
